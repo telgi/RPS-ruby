@@ -27,7 +27,7 @@ Run `ruby app.rb` and navigate to http://localhost:4567
 
 Run `rspec spec/features` for feature tests using Capybara
 
-Run `rspec spec/units` for unit tests
+Run `rspec` for all tests, including unit tests
 
 ## User Stories
 
