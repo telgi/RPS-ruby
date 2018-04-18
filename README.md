@@ -21,7 +21,7 @@ Run `bundle install`
 
 ## Usage
 
-Run `ruby app.rb` and navigate to http://localhost:3000
+Run `ruby app.rb` and navigate to http://localhost:4567
 
 ## Testing
 
